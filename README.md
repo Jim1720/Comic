@@ -1,0 +1,2 @@
+# Comic
+Comics sample application
